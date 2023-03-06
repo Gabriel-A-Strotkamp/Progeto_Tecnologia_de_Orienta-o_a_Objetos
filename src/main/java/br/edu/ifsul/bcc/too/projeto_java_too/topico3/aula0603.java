@@ -9,7 +9,7 @@ package br.edu.ifsul.bcc.too.projeto_java_too.topico3;
  * @author 20221PF.CC0008
  */
 public class aula0603 {
-    public static void main (string args[]){
+    public static void main (String args[]){
         double med;
         int num1;
         int num2;
