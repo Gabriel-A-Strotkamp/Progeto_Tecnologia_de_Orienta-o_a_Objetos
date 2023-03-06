@@ -11,7 +11,7 @@ package br.edu.ifsul.bcc.too.projeto_java_too.topico3.exercicios;
 public class Teste {
     public static void main(String args[]){
         
-        System.out.println("Teste 123!!");
+        System.out.println("Teste para a saida padrão!!");
     }
     
 }
