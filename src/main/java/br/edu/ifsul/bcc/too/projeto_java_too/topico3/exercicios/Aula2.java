@@ -8,6 +8,11 @@ package br.edu.ifsul.bcc.too.projeto_java_too.topico3.exercicios;
  *
  * @author 20221PF.CC0008
  */
+
+/*Exercício: alterar essa cotina para que o usuário informe os dois valores.
+opção 1: por interface gráfica. (java.swing.J0ptionPane)
+opção 2: por lina de comando. (java.util.Scanner)
+*/
 public class Aula2 {
     public Aula2(){
         
